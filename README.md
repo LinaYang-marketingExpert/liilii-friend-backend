@@ -1,4 +1,4 @@
-# Trust Me Bro Backend
+# LiiLii Friend Backend
 
 A TypeScript Node.js backend server built with Express and MongoDB.
 
@@ -6,10 +6,7 @@ A TypeScript Node.js backend server built with Express and MongoDB.
 
 ```
 src/
-├── controllers/    # Request handlers
 ├── models/        # Database models
-├── routes/        # API routes
-├── services/      # Business logic
 ├── utils/         # Utility functions
 └── index.ts       # Application entry point
 ```
@@ -25,7 +22,7 @@ npm install
 ```
 PORT=3000
 NODE_ENV=development
-MONGODB_URI=mongodb://localhost:27017/trust-me-bro
+MONGODB_URI=mongodb://localhost:27017/liilii-friend-bot
 ```
 
 3. Start the server:
@@ -41,15 +38,10 @@ npm start
 
 ## API Endpoints
 
-### Users
-- `POST /api/users`: Create a new user
-- `GET /api/users`: Get all users
-- `GET /api/users/:id`: Get user by ID
-- `PUT /api/users/:id`: Update user
-- `DELETE /api/users/:id`: Delete user
-
 ## Environment Variables
 
 - `PORT`: Server port (default: 3000)
-- `NODE_ENV`: Environment (development/production)
+- `BOT_TOKEN`: Bot Token
 - `MONGODB_URI`: MongoDB connection string 
+
+
