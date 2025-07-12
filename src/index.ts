@@ -86,7 +86,7 @@ function scheduleRandomJobs(num: any) {
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
-  scheduleRandomJobs(20);
+  scheduleRandomJobs(8);
 })
 
 
