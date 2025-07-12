@@ -1,0 +1,8 @@
+// railway.json
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install",
+    "startCommand": "npx ts-node src/index.ts"
+  }
+}
