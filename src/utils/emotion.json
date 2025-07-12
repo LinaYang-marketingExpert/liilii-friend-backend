@@ -1,0 +1,140 @@
+{
+    "emotions": [
+        {
+            "supportive": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287277/zumxdeuyretbxu2sy8nd.jpg",
+                "messages": [
+                    "You’re pawsome! Don’t forget it.",
+                    "I’m here for you, even on tough days.",
+                    "Every day is a fresh start — with a fresh purr.",
+                    "You got this! One paw at a time.",
+                    "Sending you virtual head boops and purrs.",
+                    "Believe in yourself like I believe in treats.",
+                    "Sometimes you just need a little catnap and a lot of love.",
+                    "If you stumble, I’ll be here to catch you (or at least watch).",
+                    "No storm lasts forever — and neither does bad hair day.",
+                    "You’re not alone. I’m just a meow away."
+                ]
+            }
+        },
+        {
+            "sassy": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752286867/qo9kihjavxnqjpjmvumk.jpg",
+                "messages": [
+                    "Oh, you think you’re funny? Cute.",
+                    "I’m not ignoring you, I’m just selectively social.",
+                    "You woke me up for this? I expected a treat.",
+                    "Did someone say ‘pets’? I accept only royal rubs.",
+                    "I’m fluent in ‘no’ and ‘not interested.’",
+                    "I’ll be your friend… when I feel like it.",
+                    "Sorry, I don’t do mornings or small talk.",
+                    "You’re lucky I’m cute, or you’d be in big trouble.",
+                    "I put the ‘cat’ in ‘catastrophe.’",
+                    "Your opinion is noted. And ignored."
+                ]
+            }
+        },
+        {
+            "sleepy": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287096/evdlf4yanstu5nwa324g.jpg",
+                "messages": [
+                    "I tried to get up, but my bed started crying. Guess I'll stay.",
+                    "You call it ‘lazy.’ I call it ‘energy conservation mode.’",
+                    "Snooze button champion for 9 years running.",
+                    "Dreaming of snacks… and more naps.",
+                    "If I fits, I naps.",
+                    "Nap hard, play never.",
+                    "My spirit animal is a napping kitten.",
+                    "I’m not ignoring you, I’m just meditating deeply (zzZ).",
+                    "Why stand when you can nap?",
+                    "Powered by cat naps and occasional head boops."
+                ]
+            }
+        },
+        {
+            "funny": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287144/hjwsd4ukgf0cgplxjl24.jpg",
+                "messages": [
+                    "If I fits, I sits. If I doesn’t fits, I sits anyway.",
+                    "Plot twist: The laser pointer is the real boss.",
+                    "I’m not lazy, I’m on energy-saving mode.",
+                    "Caught a red dot today. Still undefeated.",
+                    "Why run when you can stare intensely instead?",
+                    "Humans work 9-5. Cats work whenever.",
+                    "I bring joy and hairballs. Mostly hairballs.",
+                    "404: Motivation not found.",
+                    "I’m multi-talented: I can sleep and ignore you at the same time.",
+                    "Did someone say treats? I’m listening."
+                ]
+            }
+        },
+        {
+            "relatable": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287182/suwbztbn4q2biynxie0h.jpg",
+                "messages": [
+                    "Me, trying to be productive… but then the sun hits the spot.",
+                    "That moment you realize naps > responsibilities.",
+                    "I’m 90% snacks, 10% avoiding responsibilities.",
+                    "Mondays are proof cats hate change too.",
+                    "Accidentally woke up at 3 PM. Oops.",
+                    "Why chase dreams when you can chase laser pointers?",
+                    "I excel at ignoring people and pretending I didn’t hear.",
+                    "Mood: ‘Do not disturb’… until food arrives.",
+                    "When you want to work out, but the couch says ‘stay.’",
+                    "Just trying to survive adulting one nap at a time."
+                ]
+            }
+        },
+        {
+            "wise": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287222/t5v35oqn890jtjrbf2ju.jpg",
+                "messages": [
+                    "To nap is to exist. To purr is to live.",
+                    "The loudest peace is a silent room and soft paws.",
+                    "We chase tails to discover we had them all along.",
+                    "Simplicity is a warm sunbeam and a full belly.",
+                    "Wisdom is knowing which lap to sit on.",
+                    "True power is asking for nothing and receiving everything.",
+                    "Rest, for you are not lazy — you are timeless.",
+                    "No meow is wasted. Each tells a truth.",
+                    "Purrs heal what words cannot.",
+                    "Be still. The mouse shall come."
+                ]
+            }
+        },
+        {
+            "awkward": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287277/zumxdeuyretbxu2sy8nd.jpg",
+                "messages": [
+                    "I meowed at the wrong person. Social anxiety unlocked.",
+                    "Jumped on the counter. Slipped. Pretending I meant to.",
+                    "I made eye contact and now I’m panicking.",
+                    "I walked into the wall. Again.",
+                    "They waved at someone else. I waved back. Existential dread.",
+                    "I hid under the bed. For no reason. Just vibes.",
+                    "Accidentally liked a 2015 post while stalking your ex. Sorry.",
+                    "I said 'meow' and instantly regretted it.",
+                    "I wanted to socialize, but then… nope.",
+                    "Came to cause chaos, but I tripped on my own tail."
+                ]
+            }
+        },
+        {
+            "chaotic": {
+                "url": "https://res.cloudinary.com/dws4yvjtm/image/upload/v1752287057/lk5rg288zwevpkb8hl7y.jpg",
+                "messages": [
+                    "I did 5 zoomies and licked the curtain. It’s 9 AM.",
+                    "Bit the plant. Climbed the shelf. Sent an email. Chaos complete.",
+                    "I blinked and teleported to the fridge.",
+                    "No thoughts. Just claws and adrenaline.",
+                    "I saw the dog. I screamed.",
+                    "I licked the ceiling. You can’t stop me.",
+                    "I turned the litter box into a sandbox fight club.",
+                    "Life’s short. Knock everything off the table.",
+                    "I chewed the charger. Felt powerful.",
+                    "I pounced. Don’t ask what. I forgot."
+                ]
+            }
+        }
+    ]
+}
